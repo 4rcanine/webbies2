@@ -1,0 +1,29 @@
+
+.box2 {
+    width: 200px;
+    height: 100px;
+    background-color: #cccccc;
+    border: 5px solid #be7635;
+    margin: auto;
+    padding: 30px;
+  }
+  
+  
+  .box3 {
+    width: 200px;
+    height: 100px;
+    background-color: #abaaaa;
+    border: 5px solid #a46d3b;
+    margin: auto;
+    padding: 60px;
+  }
+  
+  .box4 {
+    width: 200px;
+    height: 100px;
+    background-color: #929292;
+    border: 5px solid #845e3d;
+    margin: auto;
+    padding: 90px;
+  }
+  
